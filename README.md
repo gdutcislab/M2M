@@ -5,7 +5,7 @@
  
  If you have any questions, PLZ do not hesitate to contact us.
  
- Pro. Hai-Lin Liu hlliu@gdut.edu.cn
+ Prof. Hai-Lin Liu hlliu@gdut.edu.cn
  Dr. Fangqin Gu gufangqing84@168.com
  Dr. Lei Chen chenactino@126.com
  
