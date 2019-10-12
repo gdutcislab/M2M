@@ -1,5 +1,5 @@
 # M2M
- This is matlab code for MOEA/D-M2M population decomposition framework. M2M can decomposes a multi/many-objective optimization problem into a number of multi/many-objective subproblems. Our study has shown that M2M can also be viewed as a constraints handling stretagy.
+ This is matlab code for MOEA/D-M2M population decomposition framework. M2M can decomposes a multi/many-objective optimization problem into a number of multi/many-objective subproblems. Our study has shown that M2M can also be viewed as a constraints handling strategy.
  
  More theoretical and experimental studies on MOEA/D-M2M are on the way. Please pay attention to our group. Enjoy!
  
