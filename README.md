@@ -7,7 +7,7 @@
  
  Prof. Hai-Lin Liu hlliu@gdut.edu.cn
  Dr. Fangqin Gu gufangqing84@168.com
- Dr. Lei Chen chenactino@126.com
+ Dr. Lei Chen chenaction@126.com
  
  Please refer our papers:
  H.-L.  Liu,  F.  Gu,  and  Q.  Zhang,  “Decomposition  of  a  multiobjectiveoptimization problem into a number of simple multiobjective subprob-lems,”IEEE Transactions on Evolutionary Computation, vol. 18, no. 3,pp. 773–791, June 2013.
