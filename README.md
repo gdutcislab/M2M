@@ -11,7 +11,7 @@
  
  Please refer our papers:
  
- H.-L.  Liu,  F.  Gu,  and  Q.  Zhang,  “Decomposition  of  a  multiobjectiveoptimization problem into a number of simple multiobjective subprob-lems,”IEEE Transactions on Evolutionary Computation, vol. 18, no. 3,pp. 773–791, June 2013.
+ H.-L.  Liu,  F.  Gu,  and  Q.  Zhang,  “Decomposition  of  a  multiobjectiveoptimization problem into a number of simple multiobjective subprob-lems,”IEEE Transactions on Evolutionary Computation, vol. 18, no. 3, pp. 773–791, June 2013.
  
  H.-L.  Liu,  L.  Chen,  Q.  Zhang,  and  K.  Deb,  “Adaptively  allocatingsearch  effort  in  challenging  many-objective  optimization  problems,”IEEE  Transactions  on  Evolutionary  Computation,  vol.  22,  no.  3,  pp.433–448, June 2018.
  
